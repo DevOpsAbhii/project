@@ -1,6 +1,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.project</groupId>
-  <artifactId>abhi</artifactId>
+  <artifactId>project</artifactId>
   <version>1.0.0</version>
+  <packaging>war</packaging>
 </project>
